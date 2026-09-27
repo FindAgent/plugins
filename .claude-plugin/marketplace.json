@@ -1,0 +1,6 @@
+{
+  "name": "findagent",
+  "description": "Reviewed FindAgent agents, exported as plugins.",
+  "owner": { "name": "FindAgent" },
+  "plugins": []
+}
