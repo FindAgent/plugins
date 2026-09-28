@@ -1,6 +1,6 @@
 {
   "name": "marketing-production-planner",
-  "version": "0.2.4+e4",
+  "version": "0.2.5+e4",
   "description": "Plans the shoot and the spend, with an approval gate on every unit.",
   "author": {
     "name": "kata-team"
