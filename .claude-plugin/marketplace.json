@@ -68,7 +68,7 @@
     {
       "name": "mobile-campaign-video-creator",
       "description": "Plans an install ad that only claims what the product actually did.",
-      "version": "0.3.1+e4",
+      "version": "0.3.2+e4",
       "source": "./plugins/mobile-campaign-video-creator"
     },
     {
