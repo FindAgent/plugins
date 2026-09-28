@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "mobile-knowledge-librarian",
-  "version": "0.3.1+e2",
+  "version": "0.3.1+e3",
   "description": "Keeps a team's written knowledge findable instead of merely large.",
   "author": {
     "name": "kata-team"

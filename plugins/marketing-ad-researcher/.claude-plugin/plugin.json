@@ -1,6 +1,6 @@
 {
   "name": "marketing-ad-researcher",
-  "version": "0.2.3+e2",
+  "version": "0.2.3+e3",
   "description": "Ranks competitor ads by how long they survived, and says what it could not reach.",
   "author": {
     "name": "kata-team"

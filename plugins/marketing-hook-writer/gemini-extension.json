@@ -1,6 +1,6 @@
 {
   "name": "marketing-hook-writer",
-  "version": "0.2.2+e2",
+  "version": "0.2.2+e3",
   "description": "Writes hooks in the customer's own words, checked against what the page can promise.",
   "mcpServers": {
     "findagent-marketing-hook-writer": {
