@@ -74,7 +74,7 @@
     {
       "name": "mobile-code-reviewer",
       "description": "Reviews a mobile change with severities that still mean something.",
-      "version": "0.4.1+e4",
+      "version": "0.4.2+e4",
       "source": "plugins/mobile-code-reviewer"
     },
     {
