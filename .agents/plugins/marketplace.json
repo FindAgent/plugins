@@ -6,15 +6,6 @@
   },
   "plugins": [
     {
-      "name": "aso-skills",
-      "description": "17 ASO and app marketing skills for indie developers, app marketers, and growth teams. ",
-      "version": "0.1.0+e4",
-      "source": {
-        "source": "local",
-        "path": "./plugins/aso-skills"
-      }
-    },
-    {
       "name": "introduction-video-creative-briefer",
       "description": "Turns approved ad creative into a triggered, rendered video production.",
       "version": "0.1.0+e4",
@@ -84,15 +75,6 @@
       "source": {
         "source": "local",
         "path": "./plugins/marketing-production-planner"
-      }
-    },
-    {
-      "name": "marketing-skills",
-      "description": "Marketing skills for technical marketers and founders: CRO, copywriting, cold email, prospecting, SEO, AI SEO, paid ads, SMS, ad creative",
-      "version": "0.1.0+e4",
-      "source": {
-        "source": "local",
-        "path": "./plugins/marketing-skills"
       }
     },
     {
@@ -183,15 +165,6 @@
       "source": {
         "source": "local",
         "path": "./plugins/mobile-ux-designer"
-      }
-    },
-    {
-      "name": "skills-for-designers-and-engineers",
-      "description": "For designers and engineers to help them build better user interfaces.",
-      "version": "0.1.0+e4",
-      "source": {
-        "source": "local",
-        "path": "./plugins/skills-for-designers-and-engineers"
       }
     }
   ]
