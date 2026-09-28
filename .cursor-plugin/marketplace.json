@@ -44,7 +44,7 @@
     {
       "name": "marketing-brief-scoper",
       "description": "Locks the campaign brief before anyone writes a word of creative.",
-      "version": "0.2.5+e4",
+      "version": "0.2.6+e4",
       "source": "plugins/marketing-brief-scoper"
     },
     {
