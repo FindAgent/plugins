@@ -8,7 +8,7 @@
     {
       "name": "aso-skills",
       "description": "17 ASO and app marketing skills for indie developers, app marketers, and growth teams. ",
-      "version": "0.1.0+e3",
+      "version": "0.1.0+e4",
       "source": {
         "source": "local",
         "path": "./plugins/aso-skills"
@@ -17,7 +17,7 @@
     {
       "name": "introduction-video-creative-briefer",
       "description": "Turns approved ad creative into a triggered, rendered video production.",
-      "version": "0.1.0+e3",
+      "version": "0.1.0+e4",
       "source": {
         "source": "local",
         "path": "./plugins/introduction-video-creative-briefer"
@@ -26,7 +26,7 @@
     {
       "name": "marketing-ad-researcher",
       "description": "Ranks competitor ads by how long they survived, and says what it could not reach.",
-      "version": "0.2.3+e3",
+      "version": "0.2.3+e4",
       "source": {
         "source": "local",
         "path": "./plugins/marketing-ad-researcher"
@@ -35,7 +35,7 @@
     {
       "name": "marketing-ad-scripter",
       "description": "Turns a creative bank into modules, continuity kits and prompts you can produce from.",
-      "version": "0.2.3+e3",
+      "version": "0.2.3+e4",
       "source": {
         "source": "local",
         "path": "./plugins/marketing-ad-scripter"
@@ -44,7 +44,7 @@
     {
       "name": "marketing-ad-tester",
       "description": "Scores only what was measured, and refuses to read a test that cannot be read.",
-      "version": "0.2.5+e3",
+      "version": "0.2.5+e4",
       "source": {
         "source": "local",
         "path": "./plugins/marketing-ad-tester"
@@ -53,7 +53,7 @@
     {
       "name": "marketing-angle-strategist",
       "description": "Scores ad angles with arithmetic you can audit, not a ranking you have to trust.",
-      "version": "0.2.3+e3",
+      "version": "0.2.3+e4",
       "source": {
         "source": "local",
         "path": "./plugins/marketing-angle-strategist"
@@ -62,7 +62,7 @@
     {
       "name": "marketing-brief-scoper",
       "description": "Locks the campaign brief before anyone writes a word of creative.",
-      "version": "0.2.5+e3",
+      "version": "0.2.5+e4",
       "source": {
         "source": "local",
         "path": "./plugins/marketing-brief-scoper"
@@ -71,7 +71,7 @@
     {
       "name": "marketing-hook-writer",
       "description": "Writes hooks in the customer's own words, checked against what the page can promise.",
-      "version": "0.2.2+e3",
+      "version": "0.2.2+e4",
       "source": {
         "source": "local",
         "path": "./plugins/marketing-hook-writer"
@@ -80,7 +80,7 @@
     {
       "name": "marketing-production-planner",
       "description": "Plans the shoot and the spend, with an approval gate on every unit.",
-      "version": "0.2.4+e3",
+      "version": "0.2.4+e4",
       "source": {
         "source": "local",
         "path": "./plugins/marketing-production-planner"
@@ -89,7 +89,7 @@
     {
       "name": "marketing-skills",
       "description": "Marketing skills for technical marketers and founders: CRO, copywriting, cold email, prospecting, SEO, AI SEO, paid ads, SMS, ad creative",
-      "version": "0.1.0+e3",
+      "version": "0.1.0+e4",
       "source": {
         "source": "local",
         "path": "./plugins/marketing-skills"
@@ -98,7 +98,7 @@
     {
       "name": "mobile-app-planner",
       "description": "Turns a vague mobile feature request into a spec with a real scope boundary.",
-      "version": "0.3.1+e3",
+      "version": "0.3.1+e4",
       "source": {
         "source": "local",
         "path": "./plugins/mobile-app-planner"
@@ -107,7 +107,7 @@
     {
       "name": "mobile-bug-investigator",
       "description": "Turns a fuzzy bug report into a scoped investigation and a planner brief.",
-      "version": "0.3.1+e3",
+      "version": "0.3.1+e4",
       "source": {
         "source": "local",
         "path": "./plugins/mobile-bug-investigator"
@@ -116,7 +116,7 @@
     {
       "name": "mobile-campaign-video-creator",
       "description": "Plans an install ad that only claims what the product actually did.",
-      "version": "0.3.1+e3",
+      "version": "0.3.1+e4",
       "source": {
         "source": "local",
         "path": "./plugins/mobile-campaign-video-creator"
@@ -125,7 +125,7 @@
     {
       "name": "mobile-code-reviewer",
       "description": "Reviews a mobile change with severities that still mean something.",
-      "version": "0.4.1+e3",
+      "version": "0.4.1+e4",
       "source": {
         "source": "local",
         "path": "./plugins/mobile-code-reviewer"
@@ -134,7 +134,7 @@
     {
       "name": "mobile-feature-developer",
       "description": "The file-level plan you approve before anyone opens an editor.",
-      "version": "0.4.1+e3",
+      "version": "0.4.1+e4",
       "source": {
         "source": "local",
         "path": "./plugins/mobile-feature-developer"
@@ -143,7 +143,7 @@
     {
       "name": "mobile-intake-interviewer",
       "description": "Runs the intake interview one question at a time and freezes the brief.",
-      "version": "0.3.1+e3",
+      "version": "0.3.1+e4",
       "source": {
         "source": "local",
         "path": "./plugins/mobile-intake-interviewer"
@@ -152,7 +152,7 @@
     {
       "name": "mobile-knowledge-librarian",
       "description": "Keeps a team's written knowledge findable instead of merely large.",
-      "version": "0.3.1+e3",
+      "version": "0.3.1+e4",
       "source": {
         "source": "local",
         "path": "./plugins/mobile-knowledge-librarian"
@@ -161,7 +161,7 @@
     {
       "name": "mobile-qa-tester",
       "description": "Finds what your change left untested, and the device cases nobody runs.",
-      "version": "0.3.1+e3",
+      "version": "0.3.1+e4",
       "source": {
         "source": "local",
         "path": "./plugins/mobile-qa-tester"
@@ -170,7 +170,7 @@
     {
       "name": "mobile-security-checker",
       "description": "Finds the security defects that pass a code review and a green build.",
-      "version": "0.4.2+e3",
+      "version": "0.4.2+e4",
       "source": {
         "source": "local",
         "path": "./plugins/mobile-security-checker"
@@ -179,7 +179,7 @@
     {
       "name": "mobile-ux-designer",
       "description": "The design spec before the screen gets built: states, copy, accessibility.",
-      "version": "0.3.1+e3",
+      "version": "0.3.1+e4",
       "source": {
         "source": "local",
         "path": "./plugins/mobile-ux-designer"
@@ -188,7 +188,7 @@
     {
       "name": "skills-for-designers-and-engineers",
       "description": "For designers and engineers to help them build better user interfaces.",
-      "version": "0.1.0+e3",
+      "version": "0.1.0+e4",
       "source": {
         "source": "local",
         "path": "./plugins/skills-for-designers-and-engineers"

@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "mobile-code-reviewer",
-  "version": "0.4.1+e3",
+  "version": "0.4.1+e4",
   "description": "Reviews a mobile change with severities that still mean something.",
   "author": {
     "name": "kata-team"

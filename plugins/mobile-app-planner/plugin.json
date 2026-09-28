@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "mobile-app-planner",
-  "version": "0.3.1+e3",
+  "version": "0.3.1+e4",
   "description": "Turns a vague mobile feature request into a spec with a real scope boundary.",
   "author": {
     "name": "kata-team"
