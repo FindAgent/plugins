@@ -32,7 +32,7 @@
     {
       "name": "marketing-ad-tester",
       "description": "Scores only what was measured, and refuses to read a test that cannot be read.",
-      "version": "0.2.5+e4",
+      "version": "0.2.6+e4",
       "source": "plugins/marketing-ad-tester"
     },
     {
