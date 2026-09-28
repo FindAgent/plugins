@@ -114,11 +114,6 @@
       "source": "./plugins/mobile-ux-designer"
     }
   ],
-  "renames": {
-    "aso-skills": null,
-    "introduction-video-creative-briefer": null,
-    "marketing-skills": null,
-    "skills-for-designers-and-engineers": null
-  },
+  "renames": {},
   "forceRemoveDeletedPlugins": true
 }
