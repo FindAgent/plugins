@@ -25,12 +25,12 @@ Do not open pull requests against it — changes are overwritten on the next syn
 
 | Client | Command |
 |---|---|
-| Claude Code | `/plugin marketplace add team886/findagent-plugins` |
-| Claude (claude.ai, Desktop) | Settings → Plugins → add marketplace `team886/findagent-plugins` |
-| GitHub Copilot CLI | `copilot plugin marketplace add team886/findagent-plugins` |
-| VS Code | add `team886/findagent-plugins` to `chat.plugins.marketplaces` |
-| Codex | add the marketplace `team886/findagent-plugins` |
-| Cursor (teams) | an admin imports `team886/findagent-plugins` as a team marketplace |
+| Claude Code | `/plugin marketplace add FindAgent/plugins` |
+| Claude (claude.ai, Desktop) | Settings → Plugins → add marketplace `FindAgent/plugins` |
+| GitHub Copilot CLI | `copilot plugin marketplace add FindAgent/plugins` |
+| VS Code | add `FindAgent/plugins` to `chat.plugins.marketplaces` |
+| Codex | add the marketplace `FindAgent/plugins` |
+| Cursor (teams) | an admin imports `FindAgent/plugins` as a team marketplace |
 
 Then install any plugin by name, for example `/plugin install <agent>@findagent` in Claude Code.
 
@@ -42,7 +42,7 @@ Then install any plugin by name, for example `/plugin install <agent>@findagent`
 - **Paid agents** carry only their listing and the gateway connection; the content is served after purchase.
 
 Plugins that run code on your own computer (scripts, hooks, local servers) are kept in a separate marketplace,
-[team886/findagent-plugins-local](https://github.com/team886/findagent-plugins-local), so installing one is
+[FindAgent/plugins-local](https://github.com/FindAgent/plugins-local), so installing one is
 always a deliberate choice.
 
 ## Any other AI app
