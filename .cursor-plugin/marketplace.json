@@ -20,7 +20,7 @@
     {
       "name": "marketing-ad-researcher",
       "description": "Ranks competitor ads by how long they survived, and says what it could not reach.",
-      "version": "0.2.3+e4",
+      "version": "0.2.4+e4",
       "source": "plugins/marketing-ad-researcher"
     },
     {
