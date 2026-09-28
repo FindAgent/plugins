@@ -62,7 +62,7 @@
     {
       "name": "marketing-introgen-briefer",
       "description": "Turns approved ad creative into an IntroGen brief, a fact-checked avoid list and an auditable briefing record.",
-      "version": "0.2.0+e4",
+      "version": "0.2.1+e4",
       "source": {
         "source": "local",
         "path": "./plugins/marketing-introgen-briefer"
