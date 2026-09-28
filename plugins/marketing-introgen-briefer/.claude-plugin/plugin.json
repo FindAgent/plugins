@@ -1,0 +1,9 @@
+{
+  "name": "marketing-introgen-briefer",
+  "version": "0.1.0+e4",
+  "description": "Turns approved ad creative into an IntroGen brief, a fact-checked avoid list and an auditable briefing record.",
+  "author": {
+    "name": "kata-team"
+  },
+  "homepage": "https://findagent.cloud/agents/marketing-introgen-briefer"
+}
