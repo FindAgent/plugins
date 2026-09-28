@@ -1,0 +1,16 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "marketing-angle-strategist",
+  "version": "0.2.3+e2",
+  "description": "Scores ad angles with arithmetic you can audit, not a ranking you have to trust.",
+  "author": {
+    "name": "kata-team"
+  },
+  "homepage": "https://findagent.cloud/agents/marketing-angle-strategist",
+  "extensions": {
+    "cloud.findagent": {
+      "agent": "https://findagent.cloud/agents/marketing-angle-strategist",
+      "tier": "base"
+    }
+  }
+}

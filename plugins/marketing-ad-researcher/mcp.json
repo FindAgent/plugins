@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "findagent-marketing-ad-researcher": {
+      "type": "http",
+      "url": "https://mcp.findagent.cloud/agents/marketing-ad-researcher"
+    }
+  }
+}

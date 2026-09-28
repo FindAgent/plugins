@@ -1,0 +1,10 @@
+{
+  "name": "marketing-hook-writer",
+  "version": "0.2.2+e2",
+  "description": "Writes hooks in the customer's own words, checked against what the page can promise.",
+  "mcpServers": {
+    "findagent-marketing-hook-writer": {
+      "httpUrl": "https://mcp.findagent.cloud/agents/marketing-hook-writer"
+    }
+  }
+}

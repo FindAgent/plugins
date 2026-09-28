@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "findagent-mobile-bug-investigator": {
+      "type": "http",
+      "url": "https://mcp.findagent.cloud/agents/mobile-bug-investigator"
+    }
+  }
+}

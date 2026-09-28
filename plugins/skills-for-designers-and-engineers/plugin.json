@@ -1,0 +1,16 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "skills-for-designers-and-engineers",
+  "version": "0.1.0+e2",
+  "description": "For designers and engineers to help them build better user interfaces.",
+  "author": {
+    "name": "katateam"
+  },
+  "homepage": "https://findagent.cloud/agents/skills-for-designers-and-engineers",
+  "extensions": {
+    "cloud.findagent": {
+      "agent": "https://findagent.cloud/agents/skills-for-designers-and-engineers",
+      "tier": "base"
+    }
+  }
+}

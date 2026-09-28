@@ -1,0 +1,10 @@
+{
+  "name": "mobile-qa-tester",
+  "version": "0.3.1+e2",
+  "description": "Finds what your change left untested, and the device cases nobody runs.",
+  "mcpServers": {
+    "findagent-mobile-qa-tester": {
+      "httpUrl": "https://mcp.findagent.cloud/agents/mobile-qa-tester"
+    }
+  }
+}

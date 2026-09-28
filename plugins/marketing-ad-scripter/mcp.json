@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "findagent-marketing-ad-scripter": {
+      "type": "http",
+      "url": "https://mcp.findagent.cloud/agents/marketing-ad-scripter"
+    }
+  }
+}

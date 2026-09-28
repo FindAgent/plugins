@@ -1,0 +1,10 @@
+{
+  "name": "mobile-app-planner",
+  "version": "0.3.1+e2",
+  "description": "Turns a vague mobile feature request into a spec with a real scope boundary.",
+  "mcpServers": {
+    "findagent-mobile-app-planner": {
+      "httpUrl": "https://mcp.findagent.cloud/agents/mobile-app-planner"
+    }
+  }
+}

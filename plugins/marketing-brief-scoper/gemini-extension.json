@@ -1,0 +1,10 @@
+{
+  "name": "marketing-brief-scoper",
+  "version": "0.2.5+e2",
+  "description": "Locks the campaign brief before anyone writes a word of creative.",
+  "mcpServers": {
+    "findagent-marketing-brief-scoper": {
+      "httpUrl": "https://mcp.findagent.cloud/agents/marketing-brief-scoper"
+    }
+  }
+}

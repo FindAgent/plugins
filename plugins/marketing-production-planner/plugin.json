@@ -1,0 +1,16 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "marketing-production-planner",
+  "version": "0.2.4+e2",
+  "description": "Plans the shoot and the spend, with an approval gate on every unit.",
+  "author": {
+    "name": "kata-team"
+  },
+  "homepage": "https://findagent.cloud/agents/marketing-production-planner",
+  "extensions": {
+    "cloud.findagent": {
+      "agent": "https://findagent.cloud/agents/marketing-production-planner",
+      "tier": "base"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "mobile-code-reviewer",
+  "version": "0.4.1+e2",
+  "description": "Reviews a mobile change with severities that still mean something.",
+  "mcpServers": {
+    "findagent-mobile-code-reviewer": {
+      "httpUrl": "https://mcp.findagent.cloud/agents/mobile-code-reviewer"
+    }
+  }
+}

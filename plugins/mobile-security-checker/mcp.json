@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "findagent-mobile-security-checker": {
+      "type": "http",
+      "url": "https://mcp.findagent.cloud/agents/mobile-security-checker"
+    }
+  }
+}

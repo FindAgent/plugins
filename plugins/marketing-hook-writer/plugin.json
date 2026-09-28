@@ -1,0 +1,16 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "marketing-hook-writer",
+  "version": "0.2.2+e2",
+  "description": "Writes hooks in the customer's own words, checked against what the page can promise.",
+  "author": {
+    "name": "kata-team"
+  },
+  "homepage": "https://findagent.cloud/agents/marketing-hook-writer",
+  "extensions": {
+    "cloud.findagent": {
+      "agent": "https://findagent.cloud/agents/marketing-hook-writer",
+      "tier": "base"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "introduction-video-creative-briefer",
+  "version": "0.1.0+e2",
+  "description": "Turns approved ad creative into a triggered, rendered video production.",
+  "author": {
+    "name": "kata-team"
+  },
+  "homepage": "https://findagent.cloud/agents/introduction-video-creative-briefer",
+  "extensions": {
+    "cloud.findagent": {
+      "agent": "https://findagent.cloud/agents/introduction-video-creative-briefer",
+      "tier": "base"
+    }
+  }
+}

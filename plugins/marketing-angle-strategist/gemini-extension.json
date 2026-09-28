@@ -1,0 +1,10 @@
+{
+  "name": "marketing-angle-strategist",
+  "version": "0.2.3+e2",
+  "description": "Scores ad angles with arithmetic you can audit, not a ranking you have to trust.",
+  "mcpServers": {
+    "findagent-marketing-angle-strategist": {
+      "httpUrl": "https://mcp.findagent.cloud/agents/marketing-angle-strategist"
+    }
+  }
+}

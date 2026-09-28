@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "findagent-mobile-qa-tester": {
+      "type": "http",
+      "url": "https://mcp.findagent.cloud/agents/mobile-qa-tester"
+    }
+  }
+}

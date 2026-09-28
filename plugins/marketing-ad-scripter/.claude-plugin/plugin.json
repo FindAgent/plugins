@@ -1,0 +1,9 @@
+{
+  "name": "marketing-ad-scripter",
+  "version": "0.2.3+e2",
+  "description": "Turns a creative bank into modules, continuity kits and prompts you can produce from.",
+  "author": {
+    "name": "kata-team"
+  },
+  "homepage": "https://findagent.cloud/agents/marketing-ad-scripter"
+}

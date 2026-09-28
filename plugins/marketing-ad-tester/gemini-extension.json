@@ -1,0 +1,10 @@
+{
+  "name": "marketing-ad-tester",
+  "version": "0.2.5+e2",
+  "description": "Scores only what was measured, and refuses to read a test that cannot be read.",
+  "mcpServers": {
+    "findagent-marketing-ad-tester": {
+      "httpUrl": "https://mcp.findagent.cloud/agents/marketing-ad-tester"
+    }
+  }
+}

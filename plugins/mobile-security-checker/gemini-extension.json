@@ -1,0 +1,10 @@
+{
+  "name": "mobile-security-checker",
+  "version": "0.4.2+e2",
+  "description": "Finds the security defects that pass a code review and a green build.",
+  "mcpServers": {
+    "findagent-mobile-security-checker": {
+      "httpUrl": "https://mcp.findagent.cloud/agents/mobile-security-checker"
+    }
+  }
+}

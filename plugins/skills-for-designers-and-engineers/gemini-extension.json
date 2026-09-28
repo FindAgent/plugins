@@ -1,0 +1,10 @@
+{
+  "name": "skills-for-designers-and-engineers",
+  "version": "0.1.0+e2",
+  "description": "For designers and engineers to help them build better user interfaces.",
+  "mcpServers": {
+    "findagent-skills-for-designers-and-engineers": {
+      "httpUrl": "https://mcp.findagent.cloud/agents/skills-for-designers-and-engineers"
+    }
+  }
+}

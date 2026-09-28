@@ -1,0 +1,16 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "marketing-ad-researcher",
+  "version": "0.2.3+e2",
+  "description": "Ranks competitor ads by how long they survived, and says what it could not reach.",
+  "author": {
+    "name": "kata-team"
+  },
+  "homepage": "https://findagent.cloud/agents/marketing-ad-researcher",
+  "extensions": {
+    "cloud.findagent": {
+      "agent": "https://findagent.cloud/agents/marketing-ad-researcher",
+      "tier": "base"
+    }
+  }
+}

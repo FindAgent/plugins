@@ -1,0 +1,16 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "marketing-brief-scoper",
+  "version": "0.2.5+e2",
+  "description": "Locks the campaign brief before anyone writes a word of creative.",
+  "author": {
+    "name": "kata-team"
+  },
+  "homepage": "https://findagent.cloud/agents/marketing-brief-scoper",
+  "extensions": {
+    "cloud.findagent": {
+      "agent": "https://findagent.cloud/agents/marketing-brief-scoper",
+      "tier": "base"
+    }
+  }
+}

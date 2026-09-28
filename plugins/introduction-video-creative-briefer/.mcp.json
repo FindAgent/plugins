@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "findagent-introduction-video-creative-briefer": {
+      "type": "http",
+      "url": "https://mcp.findagent.cloud/agents/introduction-video-creative-briefer"
+    }
+  }
+}

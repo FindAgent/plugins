@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "findagent-marketing-angle-strategist": {
+      "type": "http",
+      "url": "https://mcp.findagent.cloud/agents/marketing-angle-strategist"
+    }
+  }
+}

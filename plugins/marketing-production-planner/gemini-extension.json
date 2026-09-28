@@ -1,0 +1,10 @@
+{
+  "name": "marketing-production-planner",
+  "version": "0.2.4+e2",
+  "description": "Plans the shoot and the spend, with an approval gate on every unit.",
+  "mcpServers": {
+    "findagent-marketing-production-planner": {
+      "httpUrl": "https://mcp.findagent.cloud/agents/marketing-production-planner"
+    }
+  }
+}

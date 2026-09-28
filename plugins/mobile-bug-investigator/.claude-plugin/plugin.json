@@ -1,0 +1,9 @@
+{
+  "name": "mobile-bug-investigator",
+  "version": "0.3.1+e2",
+  "description": "Turns a fuzzy bug report into a scoped investigation and a planner brief.",
+  "author": {
+    "name": "kata-team"
+  },
+  "homepage": "https://findagent.cloud/agents/mobile-bug-investigator"
+}

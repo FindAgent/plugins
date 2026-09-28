@@ -1,0 +1,10 @@
+{
+  "name": "mobile-ux-designer",
+  "version": "0.3.1+e2",
+  "description": "The design spec before the screen gets built: states, copy, accessibility.",
+  "mcpServers": {
+    "findagent-mobile-ux-designer": {
+      "httpUrl": "https://mcp.findagent.cloud/agents/mobile-ux-designer"
+    }
+  }
+}

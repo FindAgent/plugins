@@ -1,0 +1,10 @@
+{
+  "name": "marketing-ad-scripter",
+  "version": "0.2.3+e2",
+  "description": "Turns a creative bank into modules, continuity kits and prompts you can produce from.",
+  "mcpServers": {
+    "findagent-marketing-ad-scripter": {
+      "httpUrl": "https://mcp.findagent.cloud/agents/marketing-ad-scripter"
+    }
+  }
+}

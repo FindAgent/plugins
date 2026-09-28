@@ -1,0 +1,10 @@
+{
+  "name": "introduction-video-creative-briefer",
+  "version": "0.1.0+e2",
+  "description": "Turns approved ad creative into a triggered, rendered video production.",
+  "mcpServers": {
+    "findagent-introduction-video-creative-briefer": {
+      "httpUrl": "https://mcp.findagent.cloud/agents/introduction-video-creative-briefer"
+    }
+  }
+}

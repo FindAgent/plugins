@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "findagent-marketing-production-planner": {
+      "type": "http",
+      "url": "https://mcp.findagent.cloud/agents/marketing-production-planner"
+    }
+  }
+}

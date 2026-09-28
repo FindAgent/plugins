@@ -1,0 +1,9 @@
+{
+  "name": "mobile-app-planner",
+  "version": "0.3.1+e2",
+  "description": "Turns a vague mobile feature request into a spec with a real scope boundary.",
+  "author": {
+    "name": "kata-team"
+  },
+  "homepage": "https://findagent.cloud/agents/mobile-app-planner"
+}

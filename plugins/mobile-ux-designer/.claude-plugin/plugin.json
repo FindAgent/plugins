@@ -1,0 +1,9 @@
+{
+  "name": "mobile-ux-designer",
+  "version": "0.3.1+e2",
+  "description": "The design spec before the screen gets built: states, copy, accessibility.",
+  "author": {
+    "name": "kata-team"
+  },
+  "homepage": "https://findagent.cloud/agents/mobile-ux-designer"
+}

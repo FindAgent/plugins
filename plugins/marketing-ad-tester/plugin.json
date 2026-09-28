@@ -1,0 +1,16 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "marketing-ad-tester",
+  "version": "0.2.5+e2",
+  "description": "Scores only what was measured, and refuses to read a test that cannot be read.",
+  "author": {
+    "name": "kata-team"
+  },
+  "homepage": "https://findagent.cloud/agents/marketing-ad-tester",
+  "extensions": {
+    "cloud.findagent": {
+      "agent": "https://findagent.cloud/agents/marketing-ad-tester",
+      "tier": "base"
+    }
+  }
+}

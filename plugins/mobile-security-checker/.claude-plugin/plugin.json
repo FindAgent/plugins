@@ -1,0 +1,9 @@
+{
+  "name": "mobile-security-checker",
+  "version": "0.4.2+e2",
+  "description": "Finds the security defects that pass a code review and a green build.",
+  "author": {
+    "name": "kata-team"
+  },
+  "homepage": "https://findagent.cloud/agents/mobile-security-checker"
+}
