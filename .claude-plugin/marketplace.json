@@ -110,7 +110,7 @@
     {
       "name": "mobile-ux-designer",
       "description": "The design spec before the screen gets built: states, copy, accessibility.",
-      "version": "0.3.1+e4",
+      "version": "0.3.2+e4",
       "source": "./plugins/mobile-ux-designer"
     }
   ],
