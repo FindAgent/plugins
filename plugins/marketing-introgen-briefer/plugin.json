@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "marketing-introgen-briefer",
-  "version": "0.1.1+e4",
+  "version": "0.2.0+e4",
   "description": "Turns approved ad creative into an IntroGen brief, a fact-checked avoid list and an auditable briefing record.",
   "author": {
     "name": "kata-team"
