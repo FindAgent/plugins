@@ -1,6 +1,6 @@
 {
   "name": "marketing-introgen-briefer",
-  "version": "0.3.0+e4",
+  "version": "0.3.1+e4",
   "description": "Turns approved ad creative into an IntroGen brief, a fact-checked avoid list and an auditable briefing record.",
   "mcpServers": {
     "findagent-marketing-introgen-briefer": {
