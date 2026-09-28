@@ -71,7 +71,7 @@
     {
       "name": "marketing-hook-writer",
       "description": "Writes hooks in the customer's own words, checked against what the page can promise.",
-      "version": "0.2.2+e4",
+      "version": "0.2.3+e4",
       "source": {
         "source": "local",
         "path": "./plugins/marketing-hook-writer"
