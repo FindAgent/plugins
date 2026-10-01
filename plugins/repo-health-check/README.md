@@ -1,6 +1,6 @@
 # Repo Health Check
 
-An MCP server that gives any public GitHub repository a maintainer-health score from 0 to 100, and shows its working.
+A transparent 0-100 health score for any public GitHub, GitLab or Bitbucket repo, with the formula behind every finding.
 
 From FindAgent: https://findagent.cloud/agents/repo-health-check
 Reviewed by FindAgent on 2026-10-01.
