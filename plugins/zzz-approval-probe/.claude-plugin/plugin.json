@@ -1,9 +1,0 @@
-{
-  "name": "zzz-approval-probe",
-  "version": "0.1.0+e4",
-  "description": "Throwaway probe that checks the approval prompt and credential gate.",
-  "author": {
-    "name": "kata-team"
-  },
-  "homepage": "https://findagent.cloud/agents/zzz-approval-probe"
-}

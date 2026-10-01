@@ -175,15 +175,6 @@
         "source": "local",
         "path": "./plugins/repo-health-check"
       }
-    },
-    {
-      "name": "zzz-approval-probe",
-      "description": "Throwaway probe that checks the approval prompt and credential gate.",
-      "version": "0.1.0+e4",
-      "source": {
-        "source": "local",
-        "path": "./plugins/zzz-approval-probe"
-      }
     }
   ]
 }
