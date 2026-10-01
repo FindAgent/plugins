@@ -168,6 +168,15 @@
       }
     },
     {
+      "name": "repo-health-check",
+      "description": "An MCP server that gives any public GitHub repository a maintainer-health score from 0 to 100, and shows its working.",
+      "version": "0.1.0+e4",
+      "source": {
+        "source": "local",
+        "path": "./plugins/repo-health-check"
+      }
+    },
+    {
       "name": "zzz-approval-probe",
       "description": "Throwaway probe that checks the approval prompt and credential gate.",
       "version": "0.1.0+e4",
