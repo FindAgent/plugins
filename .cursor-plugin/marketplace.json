@@ -115,9 +115,15 @@
     },
     {
       "name": "repo-health-check",
-      "description": "An MCP server that gives any public GitHub repository a maintainer-health score from 0 to 100, and shows its working.",
+      "description": "A transparent 0-100 health score for any public GitHub, GitLab or Bitbucket repo, with the formula behind every finding.",
       "version": "0.2.0+e4",
       "source": "plugins/repo-health-check"
+    },
+    {
+      "name": "webpage-xray",
+      "description": "X-ray any page: SEO, accessibility, security, speed, UX, AI-search readiness and the hidden issues nobody checks",
+      "version": "0.1.0+e4",
+      "source": "plugins/webpage-xray"
     }
   ]
 }

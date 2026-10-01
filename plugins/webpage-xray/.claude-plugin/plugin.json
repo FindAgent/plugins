@@ -1,0 +1,9 @@
+{
+  "name": "webpage-xray",
+  "version": "0.1.0+e4",
+  "description": "X-ray any page: SEO, accessibility, security, speed, UX, AI-search readiness and the hidden issues nobody checks",
+  "author": {
+    "name": "kata-team"
+  },
+  "homepage": "https://findagent.cloud/agents/webpage-xray"
+}

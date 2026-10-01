@@ -1,0 +1,10 @@
+{
+  "name": "webpage-xray",
+  "version": "0.1.0+e4",
+  "description": "X-ray any page: SEO, accessibility, security, speed, UX, AI-search readiness and the hidden issues nobody checks",
+  "mcpServers": {
+    "findagent-webpage-xray": {
+      "httpUrl": "https://mcp.findagent.cloud/agents/webpage-xray"
+    }
+  }
+}
