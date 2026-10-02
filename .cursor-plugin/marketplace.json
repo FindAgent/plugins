@@ -50,7 +50,7 @@
     {
       "name": "marketing-production-planner",
       "description": "Plans the shoot and the spend, with an approval gate on every unit.",
-      "version": "0.2.6+e4",
+      "version": "0.2.7+e4",
       "source": "plugins/marketing-production-planner"
     },
     {
