@@ -17,7 +17,7 @@
     {
       "name": "marketing-ad-scripter",
       "description": "Turns a creative bank into modules, continuity kits and prompts you can produce from.",
-      "version": "0.2.4+e4",
+      "version": "0.2.5+e4",
       "source": {
         "source": "local",
         "path": "./plugins/marketing-ad-scripter"
@@ -71,7 +71,7 @@
     {
       "name": "marketing-production-planner",
       "description": "Plans the shoot and the spend, with an approval gate on every unit.",
-      "version": "0.2.5+e4",
+      "version": "0.2.6+e4",
       "source": {
         "source": "local",
         "path": "./plugins/marketing-production-planner"
