@@ -14,7 +14,7 @@
     {
       "name": "marketing-ad-scripter",
       "description": "Turns a creative bank into modules, continuity kits and prompts you can produce from.",
-      "version": "0.2.5+e4",
+      "version": "0.2.6+e4",
       "source": "plugins/marketing-ad-scripter"
     },
     {
