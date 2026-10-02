@@ -1,6 +1,6 @@
 {
   "name": "repo-health-check",
-  "version": "0.2.1+e4",
+  "version": "0.2.2+e4",
   "description": "A transparent 0-100 health score for any public GitHub, GitLab or Bitbucket repo, with the formula behind every finding.",
   "mcpServers": {
     "findagent-repo-health-check": {
