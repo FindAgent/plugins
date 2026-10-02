@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "findagent-zz-qa-skills-demo": {
-      "type": "http",
-      "url": "https://mcp.findagent.cloud/agents/zz-qa-skills-demo"
-    }
-  }
-}

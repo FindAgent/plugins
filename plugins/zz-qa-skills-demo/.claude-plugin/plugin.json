@@ -1,9 +1,0 @@
-{
-  "name": "zz-qa-skills-demo",
-  "version": "0.1.2+e4",
-  "description": "Throwaway QA skills package for scan checks.",
-  "author": {
-    "name": "kata-team"
-  },
-  "homepage": "https://findagent.cloud/agents/zz-qa-skills-demo"
-}

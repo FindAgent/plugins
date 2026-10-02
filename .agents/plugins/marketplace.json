@@ -184,15 +184,6 @@
         "source": "local",
         "path": "./plugins/webpage-xray"
       }
-    },
-    {
-      "name": "zz-qa-skills-demo",
-      "description": "Throwaway QA skills package for scan checks.",
-      "version": "0.1.2+e4",
-      "source": {
-        "source": "local",
-        "path": "./plugins/zz-qa-skills-demo"
-      }
     }
   ]
 }
