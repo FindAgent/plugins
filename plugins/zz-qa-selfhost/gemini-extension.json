@@ -1,0 +1,10 @@
+{
+  "name": "zz-qa-selfhost",
+  "version": "0.1.0+e4",
+  "description": "Internal QA fixture: install-host slot for a self-hosted target.",
+  "mcpServers": {
+    "findagent-zz-qa-selfhost": {
+      "httpUrl": "https://mcp.findagent.cloud/agents/zz-qa-selfhost"
+    }
+  }
+}

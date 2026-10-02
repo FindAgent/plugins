@@ -184,6 +184,24 @@
         "source": "local",
         "path": "./plugins/webpage-xray"
       }
+    },
+    {
+      "name": "zz-qa-secure-doer",
+      "description": "Internal QA fixture: credential-gated read and a destructive delete tool.",
+      "version": "0.1.2+e4",
+      "source": {
+        "source": "local",
+        "path": "./plugins/zz-qa-secure-doer"
+      }
+    },
+    {
+      "name": "zz-qa-selfhost",
+      "description": "Internal QA fixture: install-host slot for a self-hosted target.",
+      "version": "0.1.0+e4",
+      "source": {
+        "source": "local",
+        "path": "./plugins/zz-qa-selfhost"
+      }
     }
   ]
 }
