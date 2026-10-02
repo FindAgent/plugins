@@ -124,6 +124,12 @@
       "description": "X-ray any page: SEO, accessibility, security, speed, UX, AI-search readiness and the hidden issues nobody checks",
       "version": "0.1.1+e4",
       "source": "./plugins/webpage-xray"
+    },
+    {
+      "name": "zz-qa-skills-demo",
+      "description": "Throwaway QA skills package for scan checks.",
+      "version": "0.1.1+e4",
+      "source": "./plugins/zz-qa-skills-demo"
     }
   ],
   "renames": {
