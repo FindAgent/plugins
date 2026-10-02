@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "marketing-brief-scoper",
-  "version": "0.2.6+e4",
+  "version": "0.2.7+e4",
   "description": "Locks the campaign brief before anyone writes a word of creative.",
   "author": {
     "name": "kata-team"

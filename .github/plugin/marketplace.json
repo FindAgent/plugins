@@ -8,7 +8,7 @@
     {
       "name": "marketing-ad-researcher",
       "description": "Ranks competitor ads by how long they survived, and says what it could not reach.",
-      "version": "0.2.6+e4",
+      "version": "0.2.7+e4",
       "source": "plugins/marketing-ad-researcher"
     },
     {
@@ -20,25 +20,25 @@
     {
       "name": "marketing-ad-tester",
       "description": "Scores only what was measured, and refuses to read a test that cannot be read.",
-      "version": "0.2.6+e4",
+      "version": "0.2.7+e4",
       "source": "plugins/marketing-ad-tester"
     },
     {
       "name": "marketing-angle-strategist",
       "description": "Scores ad angles with arithmetic you can audit, not a ranking you have to trust.",
-      "version": "0.2.4+e4",
+      "version": "0.2.5+e4",
       "source": "plugins/marketing-angle-strategist"
     },
     {
       "name": "marketing-brief-scoper",
       "description": "Locks the campaign brief before anyone writes a word of creative.",
-      "version": "0.2.6+e4",
+      "version": "0.2.7+e4",
       "source": "plugins/marketing-brief-scoper"
     },
     {
       "name": "marketing-hook-writer",
       "description": "Writes hooks in the customer's own words, checked against what the page can promise.",
-      "version": "0.2.3+e4",
+      "version": "0.2.4+e4",
       "source": "plugins/marketing-hook-writer"
     },
     {

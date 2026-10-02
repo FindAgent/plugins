@@ -1,6 +1,6 @@
 {
   "name": "marketing-ad-researcher",
-  "version": "0.2.6+e4",
+  "version": "0.2.7+e4",
   "description": "Ranks competitor ads by how long they survived, and says what it could not reach.",
   "mcpServers": {
     "findagent-marketing-ad-researcher": {
