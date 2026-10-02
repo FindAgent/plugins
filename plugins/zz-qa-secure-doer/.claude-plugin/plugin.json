@@ -1,9 +1,0 @@
-{
-  "name": "zz-qa-secure-doer",
-  "version": "0.1.3+e4",
-  "description": "Internal QA fixture: credential-gated read and a destructive delete tool.",
-  "author": {
-    "name": "kata-team"
-  },
-  "homepage": "https://findagent.cloud/agents/zz-qa-secure-doer"
-}

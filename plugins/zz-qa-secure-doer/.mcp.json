@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "findagent-zz-qa-secure-doer": {
-      "type": "http",
-      "url": "https://mcp.findagent.cloud/agents/zz-qa-secure-doer"
-    }
-  }
-}

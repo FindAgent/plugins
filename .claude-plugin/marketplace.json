@@ -44,7 +44,7 @@
     {
       "name": "marketing-introgen-briefer",
       "description": "Turns approved ad creative into an IntroGen brief, a fact-checked avoid list and an auditable briefing record.",
-      "version": "0.3.2+e4",
+      "version": "0.3.3+e4",
       "source": "./plugins/marketing-introgen-briefer"
     },
     {
@@ -124,18 +124,6 @@
       "description": "X-ray any page: SEO, accessibility, security, speed, UX, AI-search readiness and the hidden issues nobody checks",
       "version": "0.1.1+e4",
       "source": "./plugins/webpage-xray"
-    },
-    {
-      "name": "zz-qa-secure-doer",
-      "description": "Internal QA fixture: credential-gated read and a destructive delete tool.",
-      "version": "0.1.3+e4",
-      "source": "./plugins/zz-qa-secure-doer"
-    },
-    {
-      "name": "zz-qa-selfhost",
-      "description": "Internal QA fixture: install-host slot for a self-hosted target.",
-      "version": "0.1.0+e4",
-      "source": "./plugins/zz-qa-selfhost"
     }
   ],
   "renames": {
