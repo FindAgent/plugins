@@ -1,6 +1,6 @@
 {
   "name": "marketing-hook-writer",
-  "version": "0.2.4+e4",
+  "version": "0.2.5+e4",
   "description": "Writes hooks in the customer's own words, checked against what the page can promise.",
   "author": {
     "name": "kata-team"
