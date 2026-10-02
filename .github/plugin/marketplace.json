@@ -26,7 +26,7 @@
     {
       "name": "marketing-angle-strategist",
       "description": "Scores ad angles with arithmetic you can audit, not a ranking you have to trust.",
-      "version": "0.2.5+e4",
+      "version": "0.2.6+e4",
       "source": "plugins/marketing-angle-strategist"
     },
     {
