@@ -8,7 +8,7 @@
     {
       "name": "listing-asset-studio",
       "description": "Turns your listing copy into a logo and marketing screenshots whose look fits what your agent does. Every word and number comes from you.",
-      "version": "0.3.0+e4",
+      "version": "0.4.0+e4",
       "source": "./plugins/listing-asset-studio"
     },
     {
