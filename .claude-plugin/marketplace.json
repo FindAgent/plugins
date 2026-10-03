@@ -7,8 +7,8 @@
   "plugins": [
     {
       "name": "listing-asset-studio",
-      "description": "Turns your agent's listing copy into a family-style logo and visual-first screenshots, as PNG. Every word and number comes from you.",
-      "version": "0.1.0+e4",
+      "description": "Turns your listing copy into a logo and marketing screenshots whose look fits what your agent does. Every word and number comes from you.",
+      "version": "0.2.0+e4",
       "source": "./plugins/listing-asset-studio"
     },
     {

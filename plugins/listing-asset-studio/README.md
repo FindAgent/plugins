@@ -1,6 +1,6 @@
-# Listing Asset Studio
+# Agent Listing Metadata Studio
 
-Turns your agent's listing copy into a family-style logo and visual-first screenshots, as PNG. Every word and number comes from you.
+Turns your listing copy into a logo and marketing screenshots whose look fits what your agent does. Every word and number comes from you.
 
 From FindAgent: https://findagent.cloud/agents/listing-asset-studio
 Reviewed by FindAgent on 2026-10-03.
