@@ -1,7 +1,7 @@
 {
   "name": "marketing-hook-writer",
-  "version": "0.2.6+e4",
-  "description": "Writes hooks in the customer's own words, checked against what the page can promise.",
+  "version": "0.2.7+e4",
+  "description": "Hooks, proof and CTAs built from real customer quotes as mix-and-match pieces, so one shoot becomes many ad variants.",
   "mcpServers": {
     "findagent-marketing-hook-writer": {
       "httpUrl": "https://mcp.findagent.cloud/agents/marketing-hook-writer"
