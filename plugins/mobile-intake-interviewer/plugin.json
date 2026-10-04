@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "mobile-intake-interviewer",
-  "version": "0.3.2+e4",
+  "version": "0.3.3+e4",
   "description": "Runs the intake interview one question at a time and freezes the brief.",
   "author": {
     "name": "kata-team"

@@ -26,7 +26,7 @@
     {
       "name": "marketing-ad-tester",
       "description": "QA-checks your finished clips and sets up tests that change one thing at a time. No score without a measurement.",
-      "version": "0.2.9+e4",
+      "version": "0.2.10+e4",
       "source": "plugins/marketing-ad-tester"
     },
     {
@@ -92,7 +92,7 @@
     {
       "name": "mobile-intake-interviewer",
       "description": "Runs the intake interview one question at a time and freezes the brief.",
-      "version": "0.3.2+e4",
+      "version": "0.3.3+e4",
       "source": "plugins/mobile-intake-interviewer"
     },
     {
