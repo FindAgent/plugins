@@ -1,8 +1,8 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "marketing-ad-researcher",
-  "version": "0.2.8+e4",
-  "description": "Ranks competitor ads by how long they survived, and says what it could not reach.",
+  "version": "0.2.9+e4",
+  "description": "Ranks competitor ads by how long they stayed live and mines reviews for customer language. Gaps are reported, never guessed.",
   "author": {
     "name": "kata-team"
   },
