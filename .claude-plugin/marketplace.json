@@ -110,7 +110,7 @@
     {
       "name": "mobile-security-checker",
       "description": "Finds the security defects that pass a code review and a green build.",
-      "version": "0.4.3+e4",
+      "version": "0.4.4+e4",
       "source": "./plugins/mobile-security-checker"
     },
     {
