@@ -1,7 +1,7 @@
 {
   "name": "marketing-production-planner",
-  "version": "0.2.7+e4",
-  "description": "Plans the shoot and the spend, with an approval gate on every unit.",
+  "version": "0.2.8+e4",
+  "description": "Turns your script pack into a costed production plan with work tracks and shoot briefs. Nothing gets spent without your approval.",
   "author": {
     "name": "kata-team"
   },
