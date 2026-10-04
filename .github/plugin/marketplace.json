@@ -14,7 +14,7 @@
     {
       "name": "marketing-ad-researcher",
       "description": "Ranks competitor ads by how long they stayed live and mines reviews for customer language. Gaps are reported, never guessed.",
-      "version": "0.2.9+e4",
+      "version": "0.2.10+e4",
       "source": "plugins/marketing-ad-researcher"
     },
     {
