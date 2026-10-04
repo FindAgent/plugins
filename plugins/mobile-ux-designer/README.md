@@ -3,6 +3,6 @@
 The design spec before the screen gets built: states, copy, accessibility.
 
 From FindAgent: https://findagent.cloud/agents/mobile-ux-designer
-Reviewed by FindAgent on 2026-09-28.
+Reviewed by FindAgent on 2026-10-04.
 
 This plugin connects to the agent hosted on FindAgent; its parts run there.
