@@ -1,8 +1,8 @@
-# Marketing Ad Scripter
+# Marketing Video Ad Scripter
 
-Turns a creative bank into modules, continuity kits and prompts you can produce from.
+Shot beats, continuity kits and generation prompts for every scene. Real proof gets filmed, never faked.
 
 From FindAgent: https://findagent.cloud/agents/marketing-ad-scripter
-Reviewed by FindAgent on 2026-10-02.
+Reviewed by FindAgent on 2026-10-04.
 
 This plugin connects to the agent hosted on FindAgent; its parts run there.

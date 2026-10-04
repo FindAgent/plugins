@@ -1,7 +1,7 @@
 {
   "name": "marketing-ad-scripter",
-  "version": "0.2.6+e4",
-  "description": "Turns a creative bank into modules, continuity kits and prompts you can produce from.",
+  "version": "0.2.7+e4",
+  "description": "Shot beats, continuity kits and generation prompts for every scene. Real proof gets filmed, never faked.",
   "mcpServers": {
     "findagent-marketing-ad-scripter": {
       "httpUrl": "https://mcp.findagent.cloud/agents/marketing-ad-scripter"
