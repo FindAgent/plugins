@@ -53,7 +53,7 @@
     {
       "name": "marketing-brief-scoper",
       "description": "Turns your landing page into a locked video ad brief, one question at a time. No invented prices, claims or audiences.",
-      "version": "0.2.8+e4",
+      "version": "0.2.9+e4",
       "source": {
         "source": "local",
         "path": "./plugins/marketing-brief-scoper"

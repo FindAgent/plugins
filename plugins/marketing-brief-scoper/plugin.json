@@ -1,8 +1,8 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "marketing-brief-scoper",
-  "version": "0.2.8+e4",
-  "description": "Locks the campaign brief before anyone writes a word of creative.",
+  "version": "0.2.9+e4",
+  "description": "Turns your landing page into a locked video ad brief, one question at a time. No invented prices, claims or audiences.",
   "author": {
     "name": "kata-team"
   },

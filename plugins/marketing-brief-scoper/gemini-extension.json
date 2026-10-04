@@ -1,7 +1,7 @@
 {
   "name": "marketing-brief-scoper",
-  "version": "0.2.8+e4",
-  "description": "Locks the campaign brief before anyone writes a word of creative.",
+  "version": "0.2.9+e4",
+  "description": "Turns your landing page into a locked video ad brief, one question at a time. No invented prices, claims or audiences.",
   "mcpServers": {
     "findagent-marketing-brief-scoper": {
       "httpUrl": "https://mcp.findagent.cloud/agents/marketing-brief-scoper"
