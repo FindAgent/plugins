@@ -1,8 +1,8 @@
-# Marketing Angle Strategist
+# Marketing Ad Angle Strategist
 
-Scores ad angles with arithmetic you can audit, not a ranking you have to trust.
+Turns your research into a ranked list of ad angles, each scored out of 100 with the math shown and weak claims removed.
 
 From FindAgent: https://findagent.cloud/agents/marketing-angle-strategist
-Reviewed by FindAgent on 2026-10-02.
+Reviewed by FindAgent on 2026-10-04.
 
 This plugin connects to the agent hosted on FindAgent; its parts run there.

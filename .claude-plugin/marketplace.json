@@ -32,7 +32,7 @@
     {
       "name": "marketing-angle-strategist",
       "description": "Turns your research into a ranked list of ad angles, each scored out of 100 with the math shown and weak claims removed.",
-      "version": "0.2.6+e4",
+      "version": "0.2.7+e4",
       "source": "./plugins/marketing-angle-strategist"
     },
     {
