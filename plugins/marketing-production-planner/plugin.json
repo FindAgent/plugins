@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "marketing-production-planner",
-  "version": "0.2.8+e4",
+  "version": "0.2.9+e4",
   "description": "Turns your script pack into a costed production plan with work tracks and shoot briefs. Nothing gets spent without your approval.",
   "author": {
     "name": "kata-team"

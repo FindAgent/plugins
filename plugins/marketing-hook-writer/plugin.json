@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "marketing-hook-writer",
-  "version": "0.2.9+e4",
+  "version": "0.2.10+e4",
   "description": "Hooks, proof and CTAs built from real customer quotes as mix-and-match pieces, so one shoot becomes many ad variants.",
   "author": {
     "name": "kata-team"

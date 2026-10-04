@@ -44,19 +44,19 @@
     {
       "name": "marketing-hook-writer",
       "description": "Hooks, proof and CTAs built from real customer quotes as mix-and-match pieces, so one shoot becomes many ad variants.",
-      "version": "0.2.9+e4",
+      "version": "0.2.10+e4",
       "source": "./plugins/marketing-hook-writer"
     },
     {
       "name": "marketing-introgen-briefer",
       "description": "Turns approved ad creative into an IntroGen motion-graphics brief. Every claim checked, one production per approval.",
-      "version": "0.3.5+e4",
+      "version": "0.3.6+e4",
       "source": "./plugins/marketing-introgen-briefer"
     },
     {
       "name": "marketing-production-planner",
       "description": "Turns your script pack into a costed production plan with work tracks and shoot briefs. Nothing gets spent without your approval.",
-      "version": "0.2.8+e4",
+      "version": "0.2.9+e4",
       "source": "./plugins/marketing-production-planner"
     },
     {
