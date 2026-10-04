@@ -1,8 +1,8 @@
-# Marketing Ad Tester
+# Marketing Video Ad Tester
 
-Scores only what was measured, and refuses to read a test that cannot be read.
+QA-checks your finished clips and sets up tests that change one thing at a time. No score without a measurement.
 
 From FindAgent: https://findagent.cloud/agents/marketing-ad-tester
-Reviewed by FindAgent on 2026-10-02.
+Reviewed by FindAgent on 2026-10-04.
 
 This plugin connects to the agent hosted on FindAgent; its parts run there.

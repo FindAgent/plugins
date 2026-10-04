@@ -26,7 +26,7 @@
     {
       "name": "marketing-ad-tester",
       "description": "QA-checks your finished clips and sets up tests that change one thing at a time. No score without a measurement.",
-      "version": "0.2.8+e4",
+      "version": "0.2.9+e4",
       "source": "plugins/marketing-ad-tester"
     },
     {
