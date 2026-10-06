@@ -122,7 +122,7 @@
     {
       "name": "repo-health-check",
       "description": "A transparent 0-100 health score for any public GitHub, GitLab or Bitbucket repo, with the formula behind every finding.",
-      "version": "0.2.3+e4",
+      "version": "0.2.4+e4",
       "source": "./plugins/repo-health-check"
     },
     {
