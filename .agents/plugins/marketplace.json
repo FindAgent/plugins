@@ -26,7 +26,7 @@
     {
       "name": "marketing-ad-scripter",
       "description": "Shot beats, continuity kits and generation prompts for every scene. Real proof gets filmed, never faked.",
-      "version": "0.2.7+e4",
+      "version": "0.2.8+e4",
       "source": {
         "source": "local",
         "path": "./plugins/marketing-ad-scripter"
