@@ -1,6 +1,6 @@
 {
   "name": "mobile-bug-investigator",
-  "version": "0.3.3+e5",
+  "version": "0.3.4+e5",
   "description": "Turns a fuzzy bug report into a scoped investigation and a planner brief.",
   "mcpServers": {
     "findagent-mobile-bug-investigator": {
