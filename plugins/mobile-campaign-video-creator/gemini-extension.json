@@ -1,6 +1,6 @@
 {
   "name": "mobile-campaign-video-creator",
-  "version": "0.3.1+e5",
+  "version": "0.3.3+e5",
   "description": "Plans an install ad that only claims what the product actually did.",
   "mcpServers": {
     "findagent-mobile-campaign-video-creator": {
