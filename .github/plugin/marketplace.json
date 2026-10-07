@@ -74,7 +74,7 @@
     {
       "name": "mobile-campaign-video-creator",
       "description": "Plans an install ad that only claims what the product actually did.",
-      "version": "0.3.2+e5",
+      "version": "0.3.1+e5",
       "source": "plugins/mobile-campaign-video-creator"
     },
     {
@@ -98,7 +98,7 @@
     {
       "name": "mobile-knowledge-librarian",
       "description": "Keeps a team's written knowledge findable instead of merely large.",
-      "version": "0.3.2+e5",
+      "version": "0.3.3+e5",
       "source": "plugins/mobile-knowledge-librarian"
     },
     {
