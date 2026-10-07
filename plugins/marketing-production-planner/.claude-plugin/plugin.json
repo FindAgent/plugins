@@ -1,6 +1,6 @@
 {
   "name": "marketing-production-planner",
-  "version": "0.2.10+e5",
+  "version": "0.2.11+e5",
   "description": "Turns your script pack into a costed production plan with work tracks and shoot briefs. Nothing gets spent without your approval.",
   "author": {
     "name": "kata-team"
