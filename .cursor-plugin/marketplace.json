@@ -62,7 +62,7 @@
     {
       "name": "mobile-app-planner",
       "description": "Turns a vague mobile feature request into a spec with a real scope boundary.",
-      "version": "0.3.3+e5",
+      "version": "0.3.4+e5",
       "source": "plugins/mobile-app-planner"
     },
     {
