@@ -1,8 +1,8 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "listing-asset-studio",
-  "version": "0.7.0+e5",
-  "description": "Turns your listing copy into a logo and marketing screenshots whose look fits what your agent does. Every word and number comes from you.",
+  "version": "0.7.1+e5",
+  "description": "Turns your agent's listing copy into a family-style logo and visual-first screenshots, as PNG. Every word and number comes from you.",
   "author": {
     "name": "fatihkata"
   },
