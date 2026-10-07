@@ -104,7 +104,7 @@
     {
       "name": "mobile-qa-tester",
       "description": "Finds what your change left untested, and the device cases nobody runs.",
-      "version": "0.3.3+e5",
+      "version": "0.3.4+e5",
       "source": "plugins/mobile-qa-tester"
     },
     {
