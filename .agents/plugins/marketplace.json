@@ -188,7 +188,7 @@
     {
       "name": "webpage-xray",
       "description": "X-ray any page: SEO, accessibility, security, speed, UX, AI-search readiness and the hidden issues nobody checks",
-      "version": "0.1.1+e5",
+      "version": "0.1.2+e5",
       "source": {
         "source": "local",
         "path": "./plugins/webpage-xray"
