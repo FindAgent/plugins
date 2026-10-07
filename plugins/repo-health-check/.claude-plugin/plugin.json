@@ -1,9 +1,18 @@
 {
   "name": "repo-health-check",
-  "version": "0.2.4+e4",
+  "version": "0.2.4+e5",
   "description": "A transparent 0-100 health score for any public GitHub, GitLab or Bitbucket repo, with the formula behind every finding.",
   "author": {
     "name": "kata-team"
   },
-  "homepage": "https://findagent.cloud/agents/repo-health-check"
+  "homepage": "https://findagent.cloud/agents/repo-health-check",
+  "keywords": [
+    "github",
+    "repo-health",
+    "open-source",
+    "due-diligence",
+    "maintenance",
+    "gitlab",
+    "bitbucket"
+  ]
 }

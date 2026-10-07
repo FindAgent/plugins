@@ -1,6 +1,6 @@
 {
   "name": "mobile-app-planner",
-  "version": "0.3.3+e4",
+  "version": "0.3.3+e5",
   "description": "Turns a vague mobile feature request into a spec with a real scope boundary.",
   "author": {
     "name": "kata-team"

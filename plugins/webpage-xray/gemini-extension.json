@@ -1,6 +1,6 @@
 {
   "name": "webpage-xray",
-  "version": "0.1.1+e4",
+  "version": "0.1.1+e5",
   "description": "X-ray any page: SEO, accessibility, security, speed, UX, AI-search readiness and the hidden issues nobody checks",
   "mcpServers": {
     "findagent-webpage-xray": {

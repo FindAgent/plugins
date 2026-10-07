@@ -1,6 +1,6 @@
 {
   "name": "mobile-security-checker",
-  "version": "0.4.4+e4",
+  "version": "0.4.4+e5",
   "description": "Finds the security defects that pass a code review and a green build.",
   "author": {
     "name": "kata-team"

@@ -1,6 +1,6 @@
 {
   "name": "marketing-ad-tester",
-  "version": "0.2.11+e4",
+  "version": "0.2.11+e5",
   "description": "QA-checks your finished clips and sets up tests that change one thing at a time. No score without a measurement.",
   "mcpServers": {
     "findagent-marketing-ad-tester": {

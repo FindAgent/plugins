@@ -8,7 +8,7 @@
     {
       "name": "listing-asset-studio",
       "description": "Turns your listing copy into a logo and marketing screenshots whose look fits what your agent does. Every word and number comes from you.",
-      "version": "0.7.0+e4",
+      "version": "0.7.0+e5",
       "source": {
         "source": "local",
         "path": "./plugins/listing-asset-studio"
@@ -17,7 +17,7 @@
     {
       "name": "marketing-ad-researcher",
       "description": "Ranks competitor ads by how long they stayed live and mines reviews for customer language. Gaps are reported, never guessed.",
-      "version": "0.2.10+e4",
+      "version": "0.2.10+e5",
       "source": {
         "source": "local",
         "path": "./plugins/marketing-ad-researcher"
@@ -26,7 +26,7 @@
     {
       "name": "marketing-ad-scripter",
       "description": "Shot beats, continuity kits and generation prompts for every scene. Real proof gets filmed, never faked.",
-      "version": "0.2.8+e4",
+      "version": "0.2.8+e5",
       "source": {
         "source": "local",
         "path": "./plugins/marketing-ad-scripter"
@@ -35,7 +35,7 @@
     {
       "name": "marketing-ad-tester",
       "description": "QA-checks your finished clips and sets up tests that change one thing at a time. No score without a measurement.",
-      "version": "0.2.11+e4",
+      "version": "0.2.11+e5",
       "source": {
         "source": "local",
         "path": "./plugins/marketing-ad-tester"
@@ -44,7 +44,7 @@
     {
       "name": "marketing-angle-strategist",
       "description": "Turns your research into a ranked list of ad angles, each scored out of 100 with the math shown and weak claims removed.",
-      "version": "0.2.8+e4",
+      "version": "0.2.8+e5",
       "source": {
         "source": "local",
         "path": "./plugins/marketing-angle-strategist"
@@ -53,7 +53,7 @@
     {
       "name": "marketing-brief-scoper",
       "description": "Turns your landing page into a locked video ad brief, one question at a time. No invented prices, claims or audiences.",
-      "version": "0.2.12+e4",
+      "version": "0.2.12+e5",
       "source": {
         "source": "local",
         "path": "./plugins/marketing-brief-scoper"
@@ -62,7 +62,7 @@
     {
       "name": "marketing-hook-writer",
       "description": "Hooks, proof and CTAs built from real customer quotes as mix-and-match pieces, so one shoot becomes many ad variants.",
-      "version": "0.2.10+e4",
+      "version": "0.2.10+e5",
       "source": {
         "source": "local",
         "path": "./plugins/marketing-hook-writer"
@@ -71,7 +71,7 @@
     {
       "name": "marketing-introgen-briefer",
       "description": "Turns approved ad creative into an IntroGen motion-graphics brief. Every claim checked, one production per approval.",
-      "version": "0.3.8+e4",
+      "version": "0.3.8+e5",
       "source": {
         "source": "local",
         "path": "./plugins/marketing-introgen-briefer"
@@ -80,7 +80,7 @@
     {
       "name": "marketing-production-planner",
       "description": "Turns your script pack into a costed production plan with work tracks and shoot briefs. Nothing gets spent without your approval.",
-      "version": "0.2.10+e4",
+      "version": "0.2.10+e5",
       "source": {
         "source": "local",
         "path": "./plugins/marketing-production-planner"
@@ -89,7 +89,7 @@
     {
       "name": "mobile-app-planner",
       "description": "Turns a vague mobile feature request into a spec with a real scope boundary.",
-      "version": "0.3.3+e4",
+      "version": "0.3.3+e5",
       "source": {
         "source": "local",
         "path": "./plugins/mobile-app-planner"
@@ -98,7 +98,7 @@
     {
       "name": "mobile-bug-investigator",
       "description": "Turns a fuzzy bug report into a scoped investigation and a planner brief.",
-      "version": "0.3.3+e4",
+      "version": "0.3.3+e5",
       "source": {
         "source": "local",
         "path": "./plugins/mobile-bug-investigator"
@@ -107,7 +107,7 @@
     {
       "name": "mobile-campaign-video-creator",
       "description": "Plans an install ad that only claims what the product actually did.",
-      "version": "0.3.2+e4",
+      "version": "0.3.2+e5",
       "source": {
         "source": "local",
         "path": "./plugins/mobile-campaign-video-creator"
@@ -116,7 +116,7 @@
     {
       "name": "mobile-code-reviewer",
       "description": "Reviews a mobile change with severities that still mean something.",
-      "version": "0.4.3+e4",
+      "version": "0.4.3+e5",
       "source": {
         "source": "local",
         "path": "./plugins/mobile-code-reviewer"
@@ -125,7 +125,7 @@
     {
       "name": "mobile-feature-developer",
       "description": "The file-level plan you approve before anyone opens an editor.",
-      "version": "0.4.3+e4",
+      "version": "0.4.3+e5",
       "source": {
         "source": "local",
         "path": "./plugins/mobile-feature-developer"
@@ -134,7 +134,7 @@
     {
       "name": "mobile-intake-interviewer",
       "description": "Runs the intake interview one question at a time and freezes the brief.",
-      "version": "0.3.3+e4",
+      "version": "0.3.3+e5",
       "source": {
         "source": "local",
         "path": "./plugins/mobile-intake-interviewer"
@@ -143,7 +143,7 @@
     {
       "name": "mobile-knowledge-librarian",
       "description": "Keeps a team's written knowledge findable instead of merely large.",
-      "version": "0.3.2+e4",
+      "version": "0.3.2+e5",
       "source": {
         "source": "local",
         "path": "./plugins/mobile-knowledge-librarian"
@@ -152,7 +152,7 @@
     {
       "name": "mobile-qa-tester",
       "description": "Finds what your change left untested, and the device cases nobody runs.",
-      "version": "0.3.3+e4",
+      "version": "0.3.3+e5",
       "source": {
         "source": "local",
         "path": "./plugins/mobile-qa-tester"
@@ -161,7 +161,7 @@
     {
       "name": "mobile-security-checker",
       "description": "Finds the security defects that pass a code review and a green build.",
-      "version": "0.4.4+e4",
+      "version": "0.4.4+e5",
       "source": {
         "source": "local",
         "path": "./plugins/mobile-security-checker"
@@ -170,7 +170,7 @@
     {
       "name": "mobile-ux-designer",
       "description": "The design spec before the screen gets built: states, copy, accessibility.",
-      "version": "0.3.3+e4",
+      "version": "0.3.3+e5",
       "source": {
         "source": "local",
         "path": "./plugins/mobile-ux-designer"
@@ -179,7 +179,7 @@
     {
       "name": "repo-health-check",
       "description": "A transparent 0-100 health score for any public GitHub, GitLab or Bitbucket repo, with the formula behind every finding.",
-      "version": "0.2.4+e4",
+      "version": "0.2.4+e5",
       "source": {
         "source": "local",
         "path": "./plugins/repo-health-check"
@@ -188,7 +188,7 @@
     {
       "name": "webpage-xray",
       "description": "X-ray any page: SEO, accessibility, security, speed, UX, AI-search readiness and the hidden issues nobody checks",
-      "version": "0.1.1+e4",
+      "version": "0.1.1+e5",
       "source": {
         "source": "local",
         "path": "./plugins/webpage-xray"

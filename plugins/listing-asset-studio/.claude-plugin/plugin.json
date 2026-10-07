@@ -1,9 +1,21 @@
 {
   "name": "listing-asset-studio",
-  "version": "0.7.0+e4",
+  "version": "0.7.0+e5",
   "description": "Turns your listing copy into a logo and marketing screenshots whose look fits what your agent does. Every word and number comes from you.",
   "author": {
     "name": "fatihkata"
   },
-  "homepage": "https://findagent.cloud/agents/listing-asset-studio"
+  "homepage": "https://findagent.cloud/agents/listing-asset-studio",
+  "keywords": [
+    "logo",
+    "screenshots",
+    "listing",
+    "marketplace",
+    "branding",
+    "app-store-assets",
+    "png",
+    "svg",
+    "design-system",
+    "mcp"
+  ]
 }

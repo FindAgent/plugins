@@ -1,6 +1,6 @@
 {
   "name": "mobile-intake-interviewer",
-  "version": "0.3.3+e4",
+  "version": "0.3.3+e5",
   "description": "Runs the intake interview one question at a time and freezes the brief.",
   "mcpServers": {
     "findagent-mobile-intake-interviewer": {

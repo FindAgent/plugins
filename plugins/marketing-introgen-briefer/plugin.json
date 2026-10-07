@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "marketing-introgen-briefer",
-  "version": "0.3.8+e4",
+  "version": "0.3.8+e5",
   "description": "Turns approved ad creative into an IntroGen motion-graphics brief. Every claim checked, one production per approval.",
   "author": {
     "name": "kata-team"
