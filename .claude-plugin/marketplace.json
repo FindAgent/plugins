@@ -86,7 +86,7 @@
     {
       "name": "mobile-feature-developer",
       "description": "The file-level plan you approve before anyone opens an editor.",
-      "version": "0.4.3+e5",
+      "version": "0.4.4+e5",
       "source": "./plugins/mobile-feature-developer"
     },
     {
