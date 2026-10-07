@@ -1,6 +1,6 @@
 {
   "name": "marketing-angle-strategist",
-  "version": "0.2.8+e5",
+  "version": "0.2.9+e5",
   "description": "Turns your research into a ranked list of ad angles, each scored out of 100 with the math shown and weak claims removed.",
   "author": {
     "name": "kata-team"
