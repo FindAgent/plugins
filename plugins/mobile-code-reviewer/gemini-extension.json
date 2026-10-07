@@ -1,6 +1,6 @@
 {
   "name": "mobile-code-reviewer",
-  "version": "0.4.3+e5",
+  "version": "0.4.4+e5",
   "description": "Reviews a mobile change with severities that still mean something.",
   "mcpServers": {
     "findagent-mobile-code-reviewer": {
