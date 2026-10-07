@@ -3,6 +3,6 @@
 Runs the intake interview one question at a time and freezes the brief.
 
 From FindAgent: https://findagent.cloud/agents/mobile-intake-interviewer
-Reviewed by FindAgent on 2026-10-04.
+Reviewed by FindAgent on 2026-10-07.
 
 This plugin connects to the agent hosted on FindAgent; its parts run there.
