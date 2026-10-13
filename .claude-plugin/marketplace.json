@@ -80,13 +80,13 @@
     {
       "name": "mobile-code-reviewer",
       "description": "Reviews a mobile change with severities that still mean something.",
-      "version": "0.4.4+e5",
+      "version": "0.4.5+e5",
       "source": "./plugins/mobile-code-reviewer"
     },
     {
       "name": "mobile-feature-developer",
       "description": "The file-level plan you approve before anyone opens an editor.",
-      "version": "0.4.4+e5",
+      "version": "0.4.5+e5",
       "source": "./plugins/mobile-feature-developer"
     },
     {
