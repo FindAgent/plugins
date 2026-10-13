@@ -104,19 +104,19 @@
     {
       "name": "mobile-qa-tester",
       "description": "Finds what your change left untested, and the device cases nobody runs.",
-      "version": "0.3.4+e5",
+      "version": "0.3.5+e5",
       "source": "plugins/mobile-qa-tester"
     },
     {
       "name": "mobile-security-checker",
       "description": "Finds the security defects that pass a code review and a green build.",
-      "version": "0.4.5+e5",
+      "version": "0.4.6+e5",
       "source": "plugins/mobile-security-checker"
     },
     {
       "name": "mobile-ux-designer",
       "description": "The design spec before the screen gets built: states, copy, accessibility.",
-      "version": "0.3.4+e5",
+      "version": "0.3.5+e5",
       "source": "plugins/mobile-ux-designer"
     },
     {
