@@ -3,6 +3,6 @@
 Keeps a team's written knowledge findable instead of merely large.
 
 From FindAgent: https://findagent.cloud/agents/mobile-knowledge-librarian
-Reviewed by FindAgent on 2026-10-07.
+Reviewed by FindAgent on 2026-10-13.
 
 This plugin connects to the agent hosted on FindAgent; its parts run there.

@@ -98,7 +98,7 @@
     {
       "name": "mobile-knowledge-librarian",
       "description": "Keeps a team's written knowledge findable instead of merely large.",
-      "version": "0.3.3+e5",
+      "version": "0.3.4+e5",
       "source": "./plugins/mobile-knowledge-librarian"
     },
     {
