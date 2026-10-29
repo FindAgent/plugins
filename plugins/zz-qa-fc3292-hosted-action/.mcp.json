@@ -1,8 +1,0 @@
-{
-  "mcpServers": {
-    "findagent-zz-qa-fc3292-hosted-action": {
-      "type": "http",
-      "url": "https://mcp.findagent.cloud/agents/zz-qa-fc3292-hosted-action"
-    }
-  }
-}

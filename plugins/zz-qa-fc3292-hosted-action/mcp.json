@@ -1,9 +1,0 @@
-{
-  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
-  "mcpServers": {
-    "findagent-zz-qa-fc3292-hosted-action": {
-      "type": "streamable-http",
-      "url": "https://mcp.findagent.cloud/agents/zz-qa-fc3292-hosted-action"
-    }
-  }
-}

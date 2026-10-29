@@ -298,20 +298,6 @@
         "authentication": "ON_INSTALL"
       },
       "category": "Productivity"
-    },
-    {
-      "name": "zz-qa-fc3292-hosted-action",
-      "description": "QA probe: one action whose URL is filled from the tool input",
-      "version": "0.1.0+e5",
-      "source": {
-        "source": "local",
-        "path": "./plugins/zz-qa-fc3292-hosted-action"
-      },
-      "policy": {
-        "installation": "AVAILABLE",
-        "authentication": "ON_INSTALL"
-      },
-      "category": "Productivity"
     }
   ]
 }
