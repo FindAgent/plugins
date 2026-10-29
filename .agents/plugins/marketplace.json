@@ -12,7 +12,12 @@
       "source": {
         "source": "local",
         "path": "./plugins/listing-asset-studio"
-      }
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
     },
     {
       "name": "marketing-ad-researcher",
@@ -21,7 +26,12 @@
       "source": {
         "source": "local",
         "path": "./plugins/marketing-ad-researcher"
-      }
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
     },
     {
       "name": "marketing-ad-scripter",
@@ -30,7 +40,12 @@
       "source": {
         "source": "local",
         "path": "./plugins/marketing-ad-scripter"
-      }
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
     },
     {
       "name": "marketing-ad-tester",
@@ -39,7 +54,12 @@
       "source": {
         "source": "local",
         "path": "./plugins/marketing-ad-tester"
-      }
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
     },
     {
       "name": "marketing-angle-strategist",
@@ -48,7 +68,12 @@
       "source": {
         "source": "local",
         "path": "./plugins/marketing-angle-strategist"
-      }
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
     },
     {
       "name": "marketing-brief-scoper",
@@ -57,7 +82,12 @@
       "source": {
         "source": "local",
         "path": "./plugins/marketing-brief-scoper"
-      }
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
     },
     {
       "name": "marketing-hook-writer",
@@ -66,7 +96,12 @@
       "source": {
         "source": "local",
         "path": "./plugins/marketing-hook-writer"
-      }
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
     },
     {
       "name": "marketing-introgen-briefer",
@@ -75,7 +110,12 @@
       "source": {
         "source": "local",
         "path": "./plugins/marketing-introgen-briefer"
-      }
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
     },
     {
       "name": "marketing-production-planner",
@@ -84,7 +124,12 @@
       "source": {
         "source": "local",
         "path": "./plugins/marketing-production-planner"
-      }
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
     },
     {
       "name": "mobile-app-planner",
@@ -93,7 +138,12 @@
       "source": {
         "source": "local",
         "path": "./plugins/mobile-app-planner"
-      }
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
     },
     {
       "name": "mobile-bug-investigator",
@@ -102,7 +152,12 @@
       "source": {
         "source": "local",
         "path": "./plugins/mobile-bug-investigator"
-      }
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
     },
     {
       "name": "mobile-campaign-video-creator",
@@ -111,7 +166,12 @@
       "source": {
         "source": "local",
         "path": "./plugins/mobile-campaign-video-creator"
-      }
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
     },
     {
       "name": "mobile-code-reviewer",
@@ -120,7 +180,12 @@
       "source": {
         "source": "local",
         "path": "./plugins/mobile-code-reviewer"
-      }
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
     },
     {
       "name": "mobile-feature-developer",
@@ -129,7 +194,12 @@
       "source": {
         "source": "local",
         "path": "./plugins/mobile-feature-developer"
-      }
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
     },
     {
       "name": "mobile-intake-interviewer",
@@ -138,7 +208,12 @@
       "source": {
         "source": "local",
         "path": "./plugins/mobile-intake-interviewer"
-      }
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
     },
     {
       "name": "mobile-knowledge-librarian",
@@ -147,7 +222,12 @@
       "source": {
         "source": "local",
         "path": "./plugins/mobile-knowledge-librarian"
-      }
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
     },
     {
       "name": "mobile-qa-tester",
@@ -156,7 +236,12 @@
       "source": {
         "source": "local",
         "path": "./plugins/mobile-qa-tester"
-      }
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
     },
     {
       "name": "mobile-security-checker",
@@ -165,7 +250,12 @@
       "source": {
         "source": "local",
         "path": "./plugins/mobile-security-checker"
-      }
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
     },
     {
       "name": "mobile-ux-designer",
@@ -174,7 +264,12 @@
       "source": {
         "source": "local",
         "path": "./plugins/mobile-ux-designer"
-      }
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
     },
     {
       "name": "repo-health-check",
@@ -183,7 +278,12 @@
       "source": {
         "source": "local",
         "path": "./plugins/repo-health-check"
-      }
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
     },
     {
       "name": "webpage-xray",
@@ -192,7 +292,12 @@
       "source": {
         "source": "local",
         "path": "./plugins/webpage-xray"
-      }
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
     }
   ]
 }
