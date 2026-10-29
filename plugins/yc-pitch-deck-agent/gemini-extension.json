@@ -1,0 +1,10 @@
+{
+  "name": "yc-pitch-deck-agent",
+  "version": "0.1.0+e5",
+  "description": "Turns raw startup facts into a Y Combinator-style 10-slide deck (PPTX) with a JSON spec and review report. Never invents numbers.",
+  "mcpServers": {
+    "findagent-yc-pitch-deck-agent": {
+      "httpUrl": "https://mcp.findagent.cloud/agents/yc-pitch-deck-agent"
+    }
+  }
+}
