@@ -1,0 +1,10 @@
+{
+  "name": "zz-qa-fc3292-hosted-action",
+  "version": "0.1.0+e5",
+  "description": "QA probe: one action whose URL is filled from the tool input",
+  "mcpServers": {
+    "findagent-zz-qa-fc3292-hosted-action": {
+      "httpUrl": "https://mcp.findagent.cloud/agents/zz-qa-fc3292-hosted-action"
+    }
+  }
+}

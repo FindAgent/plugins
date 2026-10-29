@@ -130,6 +130,12 @@
       "description": "X-ray any page: SEO, accessibility, security, speed, UX, AI-search readiness and the hidden issues nobody checks",
       "version": "0.1.4+e5",
       "source": "plugins/webpage-xray"
+    },
+    {
+      "name": "zz-qa-fc3292-hosted-action",
+      "description": "QA probe: one action whose URL is filled from the tool input",
+      "version": "0.1.0+e5",
+      "source": "plugins/zz-qa-fc3292-hosted-action"
     }
   ]
 }
