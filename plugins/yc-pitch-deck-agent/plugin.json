@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "yc-pitch-deck-agent",
-  "version": "0.1.0+e5",
+  "version": "0.2.0+e5",
   "description": "Turns raw startup facts into a Y Combinator-style 10-slide deck (PPTX) with a JSON spec and review report. Never invents numbers.",
   "author": {
     "name": "fatihkata"
