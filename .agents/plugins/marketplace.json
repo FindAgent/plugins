@@ -302,7 +302,7 @@
     {
       "name": "yc-pitch-deck-agent",
       "description": "Turns startup facts into a YC-style 10-slide deck spec and review; the PPTX is built by your client's PPTX skill. Never invents numbers.",
-      "version": "0.2.1+e5",
+      "version": "0.2.2+e5",
       "source": {
         "source": "local",
         "path": "./plugins/yc-pitch-deck-agent"
