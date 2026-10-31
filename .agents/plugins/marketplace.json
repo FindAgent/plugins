@@ -20,6 +20,20 @@
       "category": "Productivity"
     },
     {
+      "name": "ai-slop-editor",
+      "description": "Flags AI-sounding patterns in English or Turkish text with the rule and exact span, then has your model fix them without adding facts.",
+      "version": "0.1.0+e5",
+      "source": {
+        "source": "local",
+        "path": "./plugins/ai-slop-editor"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
       "name": "clay-animation-director",
       "description": "AI agent that turns your idea into a claymation shot list, locked clay character and stop-motion prompts for any AI video tool.",
       "version": "0.2.0+e5",
