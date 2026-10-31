@@ -126,6 +126,12 @@
       "source": "./plugins/repo-health-check"
     },
     {
+      "name": "social-content-director",
+      "description": "Turn one idea into a ready-to-shoot Reel, TikTok or Short: hooks, scene-by-scene script, sound and caption.",
+      "version": "0.1.0+e5",
+      "source": "./plugins/social-content-director"
+    },
+    {
       "name": "webpage-xray",
       "description": "X-ray any page: SEO, accessibility, security, speed, UX, AI-search readiness and the hidden issues nobody checks",
       "version": "0.1.4+e5",

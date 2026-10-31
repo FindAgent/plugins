@@ -1,0 +1,16 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "social-content-director",
+  "version": "0.1.0+e5",
+  "description": "Turn one idea into a ready-to-shoot Reel, TikTok or Short: hooks, scene-by-scene script, sound and caption.",
+  "author": {
+    "name": "fatihkata"
+  },
+  "homepage": "https://findagent.cloud/agents/social-content-director",
+  "extensions": {
+    "cloud.findagent": {
+      "agent": "https://findagent.cloud/agents/social-content-director",
+      "tier": "base"
+    }
+  }
+}

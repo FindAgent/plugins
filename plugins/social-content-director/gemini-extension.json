@@ -1,0 +1,10 @@
+{
+  "name": "social-content-director",
+  "version": "0.1.0+e5",
+  "description": "Turn one idea into a ready-to-shoot Reel, TikTok or Short: hooks, scene-by-scene script, sound and caption.",
+  "mcpServers": {
+    "findagent-social-content-director": {
+      "httpUrl": "https://mcp.findagent.cloud/agents/social-content-director"
+    }
+  }
+}
