@@ -6,6 +6,12 @@
   },
   "plugins": [
     {
+      "name": "3d-short-film-director",
+      "description": "AI agent that turns your idea into a 3D animated scene: scene brief, shot list and a finished mp4 for creators and brands.",
+      "version": "0.1.0+e5",
+      "source": "./plugins/3d-short-film-director"
+    },
+    {
       "name": "clay-animation-director",
       "description": "AI agent that turns your idea into a claymation shot list, locked clay character and stop-motion prompts for any AI video tool.",
       "version": "0.2.0+e5",

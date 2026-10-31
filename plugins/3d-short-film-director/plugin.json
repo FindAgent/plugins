@@ -1,0 +1,16 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "3d-short-film-director",
+  "version": "0.1.0+e5",
+  "description": "AI agent that turns your idea into a 3D animated scene: scene brief, shot list and a finished mp4 for creators and brands.",
+  "author": {
+    "name": "fatihkata"
+  },
+  "homepage": "https://findagent.cloud/agents/3d-short-film-director",
+  "extensions": {
+    "cloud.findagent": {
+      "agent": "https://findagent.cloud/agents/3d-short-film-director",
+      "tier": "base"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "findagent-3d-short-film-director": {
+      "type": "http",
+      "url": "https://mcp.findagent.cloud/agents/3d-short-film-director"
+    }
+  }
+}
