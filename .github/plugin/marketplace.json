@@ -6,6 +6,12 @@
   },
   "plugins": [
     {
+      "name": "clay-animation-director",
+      "description": "Turn any idea into a claymation video plan: consistent clay character, shot list and stop-motion prompts for any AI video tool.",
+      "version": "0.1.0+e5",
+      "source": "plugins/clay-animation-director"
+    },
+    {
       "name": "listing-asset-studio",
       "description": "Turns your agent's listing copy into a family-style logo and visual-first screenshots, as PNG. Every word and number comes from you.",
       "version": "0.7.1+e5",

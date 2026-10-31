@@ -1,0 +1,9 @@
+{
+  "name": "clay-animation-director",
+  "version": "0.1.0+e5",
+  "description": "Turn any idea into a claymation video plan: consistent clay character, shot list and stop-motion prompts for any AI video tool.",
+  "author": {
+    "name": "fatihkata"
+  },
+  "homepage": "https://findagent.cloud/agents/clay-animation-director"
+}
