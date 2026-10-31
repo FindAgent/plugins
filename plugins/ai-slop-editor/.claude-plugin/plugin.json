@@ -1,12 +1,13 @@
 {
   "name": "ai-slop-editor",
-  "version": "0.1.0+e5",
+  "version": "0.1.1+e5",
   "description": "Flags AI-sounding patterns in English or Turkish text with the rule and exact span, then has your model fix them without adding facts.",
   "author": {
     "name": "kata-team"
   },
   "homepage": "https://findagent.cloud/agents/ai-slop-editor",
   "keywords": [
+    "software-development",
     "writing",
     "editing",
     "readability",

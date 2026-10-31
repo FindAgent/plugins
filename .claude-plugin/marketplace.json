@@ -14,7 +14,7 @@
     {
       "name": "ai-slop-editor",
       "description": "Flags AI-sounding patterns in English or Turkish text with the rule and exact span, then has your model fix them without adding facts.",
-      "version": "0.1.0+e5",
+      "version": "0.1.1+e5",
       "source": "./plugins/ai-slop-editor"
     },
     {
