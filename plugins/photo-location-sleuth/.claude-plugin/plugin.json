@@ -1,0 +1,19 @@
+{
+  "name": "photo-location-sleuth",
+  "version": "0.1.0+e5",
+  "description": "Where was this photo taken? Metadata, visible clues and sun angle, with an evidence-capped radius, a reasoning ledger and privacy limits.",
+  "author": {
+    "name": "kata-team"
+  },
+  "homepage": "https://findagent.cloud/agents/photo-location-sleuth",
+  "keywords": [
+    "photo-geolocation",
+    "exif",
+    "privacy",
+    "travel-photos",
+    "media-verification",
+    "photo-archive",
+    "privacy-check",
+    "software-development"
+  ]
+}

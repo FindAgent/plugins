@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "findagent-photo-location-sleuth": {
+      "type": "http",
+      "url": "https://mcp.findagent.cloud/agents/photo-location-sleuth"
+    }
+  }
+}

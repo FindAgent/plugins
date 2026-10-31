@@ -286,6 +286,20 @@
       "category": "Productivity"
     },
     {
+      "name": "photo-location-sleuth",
+      "description": "Where was this photo taken? Metadata, visible clues and sun angle, with an evidence-capped radius, a reasoning ledger and privacy limits.",
+      "version": "0.1.0+e5",
+      "source": {
+        "source": "local",
+        "path": "./plugins/photo-location-sleuth"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
       "name": "repo-health-check",
       "description": "A transparent 0-100 health score for any public GitHub, GitLab or Bitbucket repo, with the formula behind every finding.",
       "version": "0.2.6+e5",

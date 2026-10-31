@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/mcp.schema.json",
+  "mcpServers": {
+    "findagent-photo-location-sleuth": {
+      "type": "streamable-http",
+      "url": "https://mcp.findagent.cloud/agents/photo-location-sleuth"
+    }
+  }
+}
