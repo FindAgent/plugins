@@ -1,0 +1,10 @@
+{
+  "name": "cold-email-drafter",
+  "version": "0.1.0+e5",
+  "description": "Finds local businesses, grounds a 3-email cold outreach draft in a real detail from their site, and gate-checks it before you send.",
+  "mcpServers": {
+    "findagent-cold-email-drafter": {
+      "httpUrl": "https://mcp.findagent.cloud/agents/cold-email-drafter"
+    }
+  }
+}

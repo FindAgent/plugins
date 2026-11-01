@@ -48,6 +48,20 @@
       "category": "Productivity"
     },
     {
+      "name": "cold-email-drafter",
+      "description": "Finds local businesses, grounds a 3-email cold outreach draft in a real detail from their site, and gate-checks it before you send.",
+      "version": "0.1.0+e5",
+      "source": {
+        "source": "local",
+        "path": "./plugins/cold-email-drafter"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
       "name": "listing-asset-studio",
       "description": "Turns your agent's listing copy into a family-style logo and visual-first screenshots, as PNG. Every word and number comes from you.",
       "version": "0.7.1+e5",

@@ -1,0 +1,17 @@
+{
+  "name": "cold-email-drafter",
+  "version": "0.1.0+e5",
+  "description": "Finds local businesses, grounds a 3-email cold outreach draft in a real detail from their site, and gate-checks it before you send.",
+  "author": {
+    "name": "kata-team"
+  },
+  "homepage": "https://findagent.cloud/agents/cold-email-drafter",
+  "keywords": [
+    "software-development",
+    "sales",
+    "prospecting",
+    "openstreetmap",
+    "local-business",
+    "turkish"
+  ]
+}
