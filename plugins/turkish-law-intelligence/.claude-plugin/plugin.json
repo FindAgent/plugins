@@ -1,6 +1,6 @@
 {
   "name": "turkish-law-intelligence",
-  "version": "0.1.0+e5",
+  "version": "0.2.0+e5",
   "description": "Turkish-law research and drafting skills with deterministic calculation and official-source tools.",
   "author": {
     "name": "kata-team"
@@ -16,6 +16,11 @@
     "legislation",
     "contract-review",
     "labor-law",
-    "civil-law"
+    "civil-law",
+    "criminal-law",
+    "administrative-law",
+    "tax-law",
+    "enforcement-law",
+    "legal-calculations"
   ]
 }

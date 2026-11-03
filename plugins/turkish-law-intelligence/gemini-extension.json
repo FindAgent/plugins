@@ -1,6 +1,6 @@
 {
   "name": "turkish-law-intelligence",
-  "version": "0.1.0+e5",
+  "version": "0.2.0+e5",
   "description": "Turkish-law research and drafting skills with deterministic calculation and official-source tools.",
   "mcpServers": {
     "findagent-turkish-law-intelligence": {
