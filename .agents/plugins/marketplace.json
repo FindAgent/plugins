@@ -370,6 +370,20 @@
       "category": "Productivity"
     },
     {
+      "name": "turkish-law-intelligence",
+      "description": "Turkish-law research and drafting skills with deterministic calculation and official-source tools.",
+      "version": "0.1.0+e5",
+      "source": {
+        "source": "local",
+        "path": "./plugins/turkish-law-intelligence"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
       "name": "webpage-xray",
       "description": "X-ray any page: SEO, accessibility, security, speed, UX, AI-search readiness and the hidden issues nobody checks",
       "version": "0.1.4+e5",

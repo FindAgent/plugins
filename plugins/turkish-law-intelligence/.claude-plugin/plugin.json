@@ -1,0 +1,21 @@
+{
+  "name": "turkish-law-intelligence",
+  "version": "0.1.0+e5",
+  "description": "Turkish-law research and drafting skills with deterministic calculation and official-source tools.",
+  "author": {
+    "name": "kata-team"
+  },
+  "homepage": "https://findagent.cloud/agents/turkish-law-intelligence",
+  "keywords": [
+    "legal",
+    "turkish-law",
+    "legal-research",
+    "litigation-strategy",
+    "legal-drafting",
+    "case-law",
+    "legislation",
+    "contract-review",
+    "labor-law",
+    "civil-law"
+  ]
+}
