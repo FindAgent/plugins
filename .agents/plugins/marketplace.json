@@ -372,7 +372,7 @@
     {
       "name": "turkish-law-intelligence",
       "description": "Turkish-law research and drafting skills with deterministic calculation and official-source tools.",
-      "version": "0.3.1+e5",
+      "version": "0.4.0+e5",
       "source": {
         "source": "local",
         "path": "./plugins/turkish-law-intelligence"
