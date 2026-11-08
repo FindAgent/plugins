@@ -62,6 +62,20 @@
       "category": "Productivity"
     },
     {
+      "name": "landing-page-slop-auditor",
+      "description": "Paste page HTML, get 9 AI-slop UI checks with rule ID, line and reason for founders and agencies. No invented findings.",
+      "version": "0.1.0+e5",
+      "source": {
+        "source": "local",
+        "path": "./plugins/landing-page-slop-auditor"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    },
+    {
       "name": "listing-asset-studio",
       "description": "Turns your agent's listing copy into a family-style logo and visual-first screenshots, as PNG. Every word and number comes from you.",
       "version": "0.7.1+e5",

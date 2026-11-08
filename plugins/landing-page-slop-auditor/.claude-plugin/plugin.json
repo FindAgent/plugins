@@ -1,0 +1,16 @@
+{
+  "name": "landing-page-slop-auditor",
+  "version": "0.1.0+e5",
+  "description": "Paste page HTML, get 9 AI-slop UI checks with rule ID, line and reason for founders and agencies. No invented findings.",
+  "author": {
+    "name": "kata-team"
+  },
+  "homepage": "https://findagent.cloud/agents/landing-page-slop-auditor",
+  "keywords": [
+    "ui-audit",
+    "ui-review",
+    "ai-slop",
+    "accessibility-measurements",
+    "landing-page"
+  ]
+}

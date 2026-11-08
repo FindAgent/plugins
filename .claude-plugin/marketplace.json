@@ -30,6 +30,12 @@
       "source": "./plugins/cold-email-drafter"
     },
     {
+      "name": "landing-page-slop-auditor",
+      "description": "Paste page HTML, get 9 AI-slop UI checks with rule ID, line and reason for founders and agencies. No invented findings.",
+      "version": "0.1.0+e5",
+      "source": "./plugins/landing-page-slop-auditor"
+    },
+    {
       "name": "listing-asset-studio",
       "description": "Turns your agent's listing copy into a family-style logo and visual-first screenshots, as PNG. Every word and number comes from you.",
       "version": "0.7.1+e5",
