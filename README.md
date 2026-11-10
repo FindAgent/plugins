@@ -21,7 +21,7 @@ agent that passed FindAgent's automated scan and human review, exported as the e
 Do not open pull requests against it — changes are overwritten on the next sync. Publish or update an agent on
 [findagent.cloud/submit](https://findagent.cloud/submit) instead.
 
-## Add the marketplace
+## Add the catalog
 
 | Client | Command |
 |---|---|
@@ -29,7 +29,7 @@ Do not open pull requests against it — changes are overwritten on the next syn
 | Claude (claude.ai, Desktop) | Settings → Plugins → add marketplace `FindAgent/plugins` |
 | GitHub Copilot CLI | `copilot plugin marketplace add FindAgent/plugins` |
 | VS Code | add `FindAgent/plugins` to `chat.plugins.marketplaces` |
-| Codex | add the marketplace `FindAgent/plugins` |
+| Codex | add the catalog `FindAgent/plugins` |
 | Cursor (teams) | an admin imports `FindAgent/plugins` as a team marketplace |
 
 Then install any plugin by name, for example `/plugin install <agent>@findagent` in Claude Code.
@@ -41,7 +41,7 @@ Then install any plugin by name, for example `/plugin install <agent>@findagent`
   guardrails and your credentials stay bound to the hosts the agent declared.
 - **Paid agents** carry only their listing and the gateway connection; the content is served after purchase.
 
-Plugins that run code on your own computer (scripts, hooks, local servers) are kept in a separate marketplace,
+Plugins that run code on your own computer (scripts, hooks, local servers) are kept in a separate catalog,
 [FindAgent/plugins-local](https://github.com/FindAgent/plugins-local), so installing one is
 always a deliberate choice.
 
