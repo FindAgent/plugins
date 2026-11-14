@@ -1,0 +1,25 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "pdf-concept-map-agent",
+  "version": "0.1.0+e5",
+  "description": "Paste text from up to 10 PDFs and get a concept map for analysts and students, with every link quoted or marked inferred.",
+  "author": {
+    "name": "kata-team"
+  },
+  "homepage": "https://findagent.cloud/agents/pdf-concept-map-agent",
+  "keywords": [
+    "software-development",
+    "knowledge-graph",
+    "citations",
+    "concept-map",
+    "documents",
+    "provenance",
+    "pdf-text"
+  ],
+  "extensions": {
+    "cloud.findagent": {
+      "agent": "https://findagent.cloud/agents/pdf-concept-map-agent",
+      "tier": "base"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "pdf-concept-map-agent",
+  "version": "0.1.0+e5",
+  "description": "Paste text from up to 10 PDFs and get a concept map for analysts and students, with every link quoted or marked inferred.",
+  "mcpServers": {
+    "findagent-pdf-concept-map-agent": {
+      "httpUrl": "https://mcp.findagent.cloud/agents/pdf-concept-map-agent"
+    }
+  }
+}

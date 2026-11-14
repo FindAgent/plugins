@@ -150,6 +150,12 @@
       "source": "./plugins/mobile-ux-designer"
     },
     {
+      "name": "pdf-concept-map-agent",
+      "description": "Paste text from up to 10 PDFs and get a concept map for analysts and students, with every link quoted or marked inferred.",
+      "version": "0.1.0+e5",
+      "source": "./plugins/pdf-concept-map-agent"
+    },
+    {
       "name": "photo-location-sleuth",
       "description": "Where was this photo taken? Metadata, visible clues and sun angle, with an evidence-capped radius, a reasoning ledger and privacy limits.",
       "version": "0.1.0+e5",
